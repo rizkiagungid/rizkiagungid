@@ -20,8 +20,8 @@ Currently I am open to any opportunity especially in IT as a Web Developer.
     - 📫 How to reach me: <a href="mailto:mrrizkiagung@gmail.com">Email me!</a>  </br>
 </details>
 <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=arifintajul4&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arifintajul4&layout=compact" height=180 />
+    <img src="https://github-readme-stats.vercel.app/api?username=rizkiagungid&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizkiagungid&layout=compact" height=180 />
 </p>
 
 ### Let's connect!
