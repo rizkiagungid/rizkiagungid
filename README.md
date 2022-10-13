@@ -1,7 +1,7 @@
 # Hi there 👋 , I'm Rizki Agung!
 
 [![@rizkiagungid's Holopin board](https://holopin.me/rizkiagungid)](https://holopin.io/@rizkiagungid)
-Currently I am open to any opportunity especially in IT as a Web Developer.
+Currently I am open to all opportunities, especially in the IT field as a Web Developer and Multimedia.
 
 ### Tools:
 
