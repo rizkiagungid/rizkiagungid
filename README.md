@@ -32,6 +32,10 @@ Currently I am open to all opportunities, especially in the IT field as a Web De
 
 <p align = "left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rizkiagungid" alt="rizkiagungid" /></a> </p>
 
+
+<p><img align  = "center" src="https://github-readme-streak-stats.herokuapp.com/?user=rizkiagungid&" alt="rizkiagungid" /></p>
+
+
 ### Let's connect!
 
 <p>
