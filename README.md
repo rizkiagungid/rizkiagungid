@@ -1,5 +1,17 @@
 # Hi there 👋 , I'm Rizki Agung!
 
+ <div>
+  <center>
+<h1 align       = "center">~ 💖 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓟𝓻𝓸𝓯𝓲𝓵𝓮 💖 ~</h1>
+<br>
+<div align      = "center">
+<!-- <a href    = "https://discord.com/users/rizkiagungid#7267" > -->
+  <a href       = "https://laby.net/@rizkiagungid" >
+   <img src     = "https://lanyard.cnrad.dev/api/202740603790819328?idleMessage=“Change%your%thoughts%and%you%change%your%world.”&animated=true&theme=dark&borderRadius=20&hideBadges=true&hideDiscrim=true&bg=212121"  />
+  </a>
+  </div>
+
+
 [![@rizkiagungid's Holopin board](https://holopin.me/rizkiagungid)](https://holopin.io/@rizkiagungid)
 Currently I am open to all opportunities, especially in the IT field as a Web Developer and Multimedia.
 
