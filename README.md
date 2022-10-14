@@ -69,7 +69,7 @@ Currently I am open to all opportunities, especially in the IT field as a Web De
 <b>Nationality  : </b> Indonesian
 </li>
 <li>
-<b>Hobby     : </b> Games, Photography & Videography, Web Development
+<b>Hobby     : </b> Games, Photography & Videography, Web Development, Traveling
 </li>
 <li>
 <b>Working @    : </b> Student at UNIVERSITAS BINA SARANA INFORMATIKA (Computer Science)
