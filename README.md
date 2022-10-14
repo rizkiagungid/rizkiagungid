@@ -7,7 +7,7 @@
 <div align      = "center">
 <!-- <a href    = "https://discord.com/users/rizkiagungid#7267" > -->
   <a href       = "https://laby.net/@rizkiagungid" >
-   <img src     = "https://lanyard.cnrad.dev/api/202740603790819328?idleMessage=“Change%your%thoughts%and%you%change%your%world.”&animated=true&theme=dark&borderRadius=20&hideBadges=true&hideDiscrim=true&bg=212121"  />
+   <img src     = "https://lanyard.cnrad.dev/api/202740603790819328?idleMessage=“Change %your%thoughts%and%you%change %your %world.”&animated=true&theme=dark&borderRadius=20&hideBadges=true&hideDiscrim=true&bg=212121"  />
   </a>
   </div>
 
