@@ -89,3 +89,9 @@ Currently I am open to all opportunities, especially in the IT field as a Web De
     <a href="https://www.facebook.com/rizkiagungsx" target="_blank"><img src="https://img.shields.io/badge/rizkiagungsx-30302f?style=flat&logo=facebook" /></a>
     <a href="https://www.youtube.com/rizkiagungsentosa" target="_blank"><img src="https://img.shields.io/badge/rizkiagungsentosa-30302f?style=flat&logo=youtube" /></a>
 </p>
+ 
+ <div>
+<h2 align       = "center">💖 ~ 𝓣𝓱𝓪𝓷𝓴𝓼 𝓯𝓸𝓻 𝓻𝓮𝓪𝓭𝓲𝓷𝓰! ~ 💖</h2>
+<div align      = "center">
+<img src        = "https://thumbs.gfycat.com/ElderlyNiceIsopod-size_restricted.gif">
+</div>
