@@ -93,5 +93,5 @@ Currently I am open to all opportunities, especially in the IT field as a Web De
  <div>
 <h2 align       = "center">💖 ~ 𝓣𝓱𝓪𝓷𝓴𝓼 𝓯𝓸𝓻 𝓻𝓮𝓪𝓭𝓲𝓷𝓰! ~ 💖</h2>
 <div align      = "center">
-<img src        = "https://thumbs.gfycat.com/ElderlyNiceIsopod-size_restricted.gif">
+<img src        = "https://thumbs.gfycat.com/ElderlyNiceIsopod-size_restricted.gif](https://www.mkgifs.com/wp-content/uploads/2022/03/GIF-Wallpaper-Naruto-1.gif">
 </div>
