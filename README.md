@@ -52,6 +52,33 @@ Currently I am open to all opportunities, especially in the IT field as a Web De
 
 
 
+<div>
+<h2 align       = "center"> 🦊 ~ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ~ 🦊 </h2>
+  <div align    = "center">
+<img src        = "https://64.media.tumblr.com/e1f1c97123ae217eb731500e502e0083/tumblr_n9dxcikmIU1qc9zfzo7_r1_250.gif" align="right">
+  </div>
+<li>
+ <b>Name        : </b> Rizki Agung Sentosa</li>
+<li>
+<b>Fursona      : </b> Snow Fox
+</li>
+<li>
+<b>Loves        : </b> Games, Multimedia & Web Programming
+</li>
+<li>
+<b>Gender       : </b> Male
+</li>
+<li>
+<b>Hobbys       : </b> Games, Photography & Videography, Web Development
+</li>
+<li>
+<b>Working @    : </b> Student at UNIVERSITAS BINA SARANA INFORMATIKA majoring in Computer Science
+</li>
+<br><br><br
+            
+            
+
+
 ### Let's connect!
 
 <p>
