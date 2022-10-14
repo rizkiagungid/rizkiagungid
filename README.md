@@ -60,19 +60,19 @@ Currently I am open to all opportunities, especially in the IT field as a Web De
 <li>
  <b>Name        : </b> Rizki Agung Sentosa</li>
 <li>
-<b>Fursona      : </b> Snow Fox
-</li>
-<li>
 <b>Loves        : </b> Games, Multimedia & Web Programming
 </li>
 <li>
 <b>Gender       : </b> Male
 </li>
-<li>
-<b>Hobbys       : </b> Games, Photography & Videography, Web Development
+ <li>
+<b>Nationality  : </b> Indonesian
 </li>
 <li>
-<b>Working @    : </b> Student at UNIVERSITAS BINA SARANA INFORMATIKA majoring in Computer Science
+<b>Hobby     : </b> Games, Photography & Videography, Web Development
+</li>
+<li>
+<b>Working @    : </b> Student at UNIVERSITAS BINA SARANA INFORMATIKA (Computer Science)
 </li>
 <br><br><br
             
