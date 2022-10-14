@@ -5,10 +5,10 @@
 <h1 align       = "center">~ 💖 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓟𝓻𝓸𝓯𝓲𝓵𝓮 💖 ~</h1>
 <br>
 <div align      = "center">
-   <p>MANUSIA BIASA</p>
+   <p>“Change your thoughts and you change your world.”</p>
   </a>
   </div>
-
+<br>
 
 [![@rizkiagungid's Holopin board](https://holopin.me/rizkiagungid)](https://holopin.io/@rizkiagungid)
 Currently I am open to all opportunities, especially in the IT field as a Web Developer and Multimedia.
