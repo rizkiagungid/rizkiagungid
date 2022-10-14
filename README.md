@@ -55,7 +55,7 @@ Currently I am open to all opportunities, especially in the IT field as a Web De
 <div>
 <h2 align       = "center"> 🦊 ~ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ~ 🦊 </h2>
   <div align    = "center">
-<img src        = "https://www.identityrpg.com/community/uploads/monthly_2018_11/EFC69CFB-1FA9-4D70-B053-CCEC7D033681.thumb.gif.1627beaa8e419ab59f781dce4993187b.gif" align="right">
+<img src        = "https://www.identityrpg.com/community/uploads/monthly_2018_11/EFC69CFB-1FA9-4D70-B053-CCEC7D033681.thumb.gif.1627beaa8e419ab59f781dce4993187b.gif" align="right" size="50px">
   </div>
 <li>
  <b>Name        : </b> Rizki Agung Sentosa</li>
