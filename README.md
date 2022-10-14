@@ -31,11 +31,13 @@ Currently I am open to all opportunities, especially in the IT field as a Web De
 
 <p>
     <img src="https://github-readme-stats.vercel.app/api?username=rizkiagungid&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizkiagungid&layout=compact" height=180 />
+    <img align  = "center" src="https://github-readme-streak-stats.herokuapp.com/?user=rizkiagungid&" alt="rizkiagungid" />
 </p>
 
-<p><img align  = "center" src="https://github-readme-streak-stats.herokuapp.com/?user=rizkiagungid&" alt="rizkiagungid" /></p>
 
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizkiagungid&layout=compact" height=180 /></p>
+
+ 
 <p align = "left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rizkiagungid" alt="rizkiagungid" /></a> </p>
 
 
