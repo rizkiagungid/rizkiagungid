@@ -1,8 +1,8 @@
-# Hi there 👋 , I'm Rizki Agung!
+# Hi there 🫰🏼 , I'm Rizki Agung!
 
  <div>
   <center>
-<h1 align       = "center">~ 💖 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓟𝓻𝓸𝓯𝓲𝓵𝓮 💖 ~</h1>
+<h1 align       = "center">~ 🤖 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓟𝓻𝓸𝓯𝓲𝓵𝓮 👨‍✈️ ~</h1>
 <br>
 <div align      = "center">
    <p>“Change your thoughts and you change your world.”</p>
@@ -53,7 +53,7 @@ Currently I am open to all opportunities, especially in the IT field as a Web De
 
 
 <div>
-<h2 align       = "center"> 🦊 ~ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ~ 🦊 </h2>
+<h2 align       = "center"> 🕵🏼‍♂️ ~ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ~ 🕵🏼‍♂️ </h2>
   <div align    = "center">
 <img src        = "https://exological.neocities.org/giphy.gif" align="right">
   </div>
@@ -91,7 +91,7 @@ Currently I am open to all opportunities, especially in the IT field as a Web De
 </p>
  
  <div>
-<h2 align       = "center">💖 ~ 𝓣𝓱𝓪𝓷𝓴𝓼 𝓯𝓸𝓻 𝓻𝓮𝓪𝓭𝓲𝓷𝓰! ~ 💖</h2>
+<h2 align       = "center">👏🏼 ~ 𝓣𝓱𝓪𝓷𝓴𝓼 𝓯𝓸𝓻 𝓻𝓮𝓪𝓭𝓲𝓷𝓰! ~ 👍🏼</h2>
 <div align      = "center">
 <img src        = "https://www.identityrpg.com/community/uploads/monthly_2018_11/EFC69CFB-1FA9-4D70-B053-CCEC7D033681.thumb.gif.1627beaa8e419ab59f781dce4993187b.gif">
 </div>
