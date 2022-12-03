@@ -52,30 +52,6 @@ Currently I am open to all opportunities, especially in the IT field as a Web De
 
 
 
-<div>
-<h2 align       = "center"> 🕵🏼‍♂️ ~ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ~ 🕵🏼‍♂️ </h2>
-  <div align    = "center">
-<img src        = "https://exological.neocities.org/giphy.gif" align="right">
-  </div>
-<li>
- <b>Name        : </b> Rizki Agung Sentosa</li>
-<li>
-<b>Loves        : </b> Games, Multimedia & Web Programming
-</li>
-<li>
-<b>Gender       : </b> Male
-</li>
- <li>
-<b>Nationality  : </b> Indonesian
-</li>
-<li>
-<b>Hobby     : </b> Games, Photography & Videography, Web Development, Traveling
-</li>
-<li>
-<b>Working @    : </b> Student at UNIVERSITAS BINA SARANA INFORMATIKA (Computer Science)
-</li>
-<br><br><br
-            
             
 
 
@@ -90,8 +66,3 @@ Currently I am open to all opportunities, especially in the IT field as a Web De
     <a href="https://www.youtube.com/rizkiagungsentosa" target="_blank"><img src="https://img.shields.io/badge/rizkiagungsentosa-30302f?style=flat&logo=youtube" /></a>
 </p>
  
- <div>
-<h2 align       = "center">👏🏼 ~ 𝓣𝓱𝓪𝓷𝓴𝓼 𝓯𝓸𝓻 𝓻𝓮𝓪𝓭𝓲𝓷𝓰! ~ 👍🏼</h2>
-<div align      = "center">
-<img src        = "https://www.identityrpg.com/community/uploads/monthly_2018_11/EFC69CFB-1FA9-4D70-B053-CCEC7D033681.thumb.gif.1627beaa8e419ab59f781dce4993187b.gif">
-</div>
