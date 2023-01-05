@@ -45,6 +45,7 @@ Currently I am open to all opportunities, especially in the IT field as a Web De
 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizkiagungid&layout=compact" height=180 /></p>
 
+<p>
                              \\\\\\\
                             \\\\\\\\\\\\
                           \\\\\\\\\\\\\\\
@@ -64,7 +65,8 @@ _____________,'      ,',_____|      |    | |
              | ,','  __/ |             /   |
 _____________|','   ///_/-------------/   |
               |===========,'
-              
+ </p>           
+ 
               
 ### Let's connect!
 
