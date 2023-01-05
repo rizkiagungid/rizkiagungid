@@ -1,4 +1,4 @@
-# Hi there 🫰🏼 , I'm Rizki Agung!
+# Hi 😎 , I'm Rizki Agung!
 
  <div>
   <center>
