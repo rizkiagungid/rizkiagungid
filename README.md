@@ -35,10 +35,7 @@ Currently I am open to all opportunities, especially in the IT field as a Web De
 <a href="https://adobe.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" alt="After-efek" width="40" height="40"/> </a>
  
  <a href="#" target="_blank" rel="noreferrer"><img src="https://github.com/rizkiagungid/skill-icons/blob/main/icons/Photoshop.svg" alt="Photoshop" width="40" height="40"/> </a>
- <a href="#" target="_blank" rel="noreferrer"><img src="[https://github.com/rizkiagungid/skill-icons/blob/main/icons/Photoshop.svg](https://github.com/rizkiagungid/skill-icons/blob/main/icons/Figma-Light.svg)" alt="Figma" width="40" height="40"/> </a>
-
-
- 
+  <a href="#" target="_blank" rel="noreferrer"><img src="https://github.com/rizkiagungid/skill-icons/blob/main/icons/Figma-Light.svg" alt="Figma" width="40" height="40"/> </a>
 </p>
 
 <p>
