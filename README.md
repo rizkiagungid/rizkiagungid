@@ -48,3 +48,12 @@ Currently I am open to all opportunities, especially in the IT field as a Web De
     <a href="https://www.youtube.com/rizkiagungsentosa" target="_blank"><img src="https://img.shields.io/badge/rizkiagungsentosa-30302f?style=flat&logo=youtube" /></a>
 </p>
  
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=rizkiagungid&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+---
+[![](https://visitcount.itsvg.in/api?id=rizkiagungid&icon=7&color=0)](https://visitcount.itsvg.in)
+
