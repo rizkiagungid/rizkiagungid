@@ -1,4 +1,4 @@
-# Hi 😎 , I'm Rizki Agung!    <img src="https://github.com/rizkiagungid/rizkiagungid/blob/main/Genshin-Impact-anime.jpg" width="200" height="250">
+# Hi 😎 , I'm Rizki Agung!    <img src="https://github.com/rizkiagungid/rizkiagungid/blob/main/Genshin-Impact-anime.jpg" width="200" height="200">
 
  <div>
   <center>
