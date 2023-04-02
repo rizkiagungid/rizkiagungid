@@ -20,7 +20,7 @@ Currently I am open to all opportunities, especially in the IT field as a Web De
     - 🔭 I’m currently working in <a href="http://rasxmedia.com" target="_blank">RasxMedia Indonesia</a> as Web Developer</br>
     - 🌱 I’m currently learning Codeigniter</br>
     - 💬 Ask me about anything.</br>
-     - 💬 Portofolio: <a href="http://rasxmedia.com" target="_blank">check here</a></br>
+     - 👤 Portofolio: <a href="http://dev.rasxmedia.com/u/rasx" target="_blank">check here</a></br>
     - 📫 How to reach me: <a href="mailto:mrrizkiagung@gmail.com">Email me!</a>  </br>
 </details>
 
