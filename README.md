@@ -3,12 +3,12 @@
  <div>
   <center>
 <h1 align       = "center">~ 🤖 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓟𝓻𝓸𝓯𝓲𝓵𝓮 👨‍✈️ ~</h1>
+    <img src="https://github.com/rizkiagungid/rizkiagungid/blob/main/Genshin-Impact-anime.jpg" width="500" height="500">
 <br>
 <div align      = "center">
    <p>“Change your thoughts and you change your world.”</p>
   </a>
   </div>
-   <img src="https://github.com/rizkiagungid/rizkiagungid/blob/main/Genshin-Impact-anime.jpg" width="800" height="720">
 <br>
 
 [![@rizkiagungid's Holopin board](https://holopin.me/rizkiagungid)](https://holopin.io/@rizkiagungid)
