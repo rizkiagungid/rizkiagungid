@@ -1,4 +1,4 @@
-<h1 align       = "center">~ Hi ! im Rizki Agung 😊 ~</h1>
+<h1 align       = "center">Hi ! im Rizki Agung 😊</h1>
  <div>
   <center>
 <h3 align       = "center">~ 🤖 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓟𝓻𝓸𝓯𝓲𝓵𝓮 👨‍✈️ ~</h3>
