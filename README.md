@@ -35,8 +35,11 @@ Currently I am open to all opportunities, especially in the IT field as a Web De
 ![](https://github-readme-stats.vercel.app/api?username=rizkiagungid&theme=blueberry&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=rizkiagungid&theme=blueberry&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rizkiagungid&theme=blueberry&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+ 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=rizkiagungid&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
 
-              
+           
 ### Let's connect!
 
 <p>
@@ -47,9 +50,6 @@ Currently I am open to all opportunities, especially in the IT field as a Web De
     <a href="https://www.facebook.com/rizkiagungsx" target="_blank"><img src="https://img.shields.io/badge/rizkiagungsx-30302f?style=flat&logo=facebook" /></a>
     <a href="https://www.youtube.com/rizkiagungsentosa" target="_blank"><img src="https://img.shields.io/badge/rizkiagungsentosa-30302f?style=flat&logo=youtube" /></a>
 </p>
- 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=rizkiagungid&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=rizkiagungid&icon=7&color=0)](https://visitcount.itsvg.in)
