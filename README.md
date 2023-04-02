@@ -8,7 +8,7 @@
    <p>“Change your thoughts and you change your world.”</p>
   </a>
   </div>
-  <img src="https://github.com/rizkiagungid/rizkiagungid/blob/main/Genshin-Impact-anime.jpg" width="720" height="1080">
+  <img src="https://github.com/rizkiagungid/rizkiagungid/blob/main/Genshin-Impact-anime.jpg" width="720" height="680">
 <br>
 
 [![@rizkiagungid's Holopin board](https://holopin.me/rizkiagungid)](https://holopin.io/@rizkiagungid)
