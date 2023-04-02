@@ -32,12 +32,9 @@ Currently I am open to all opportunities, especially in the IT field as a Web De
 </p>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=bagusandrewijaya&theme=blueberry&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=bagusandrewijaya&theme=blueberry&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=bagusandrewijaya&theme=blueberry&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizkiagungid&layout=compact" height=180 /></p>          
+![](https://github-readme-stats.vercel.app/api?username=rizkiagungid&theme=blueberry&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=rizkiagungid&theme=blueberry&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=rizkiagungid&theme=blueberry&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
               
 ### Let's connect!
