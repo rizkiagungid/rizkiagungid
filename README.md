@@ -31,10 +31,10 @@ Currently I am open to all opportunities, especially in the IT field as a Web De
   <a href="#" target="_blank" rel="noreferrer"><img src="https://github.com/rizkiagungid/skill-icons/blob/main/icons/Figma-Light.svg" alt="Figma" width="40" height="40"/> </a>
 </p>
 
-<p>
-    <img src="https://github-readme-stats.vercel.app/api?username=rizkiagungid&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000" />
-    <img align  = "center" src="https://github-readme-streak-stats.herokuapp.com/?user=rizkiagungid&" alt="rizkiagungid" />
-</p>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=bagusandrewijaya&theme=blueberry&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=bagusandrewijaya&theme=blueberry&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=bagusandrewijaya&theme=blueberry&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizkiagungid&layout=compact" height=180 /></p>          
