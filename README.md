@@ -1,7 +1,7 @@
 <h1 align       = "center">Hi ! im Rizki Agung 😊</h1>
  <div>
   <center>
-<h3 align       = "center">~𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓟𝓻𝓸𝓯𝓲𝓵𝓮~</h3>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70E0E&width=600&height=100&lines=Hi+!+im+Rizki+Agung;I'm+a+web+developer+and+editor;Contact+me+if+you+need+help+and+other+information+about+it." alt="Typing SVG" /></a>
 <br>
 <div align      = "center">
    <p>“Change your thoughts and you change your world.”</p>
