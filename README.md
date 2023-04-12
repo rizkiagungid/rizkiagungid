@@ -1,7 +1,7 @@
 <h1 align       = "center">Welcome to my Github 😊</h1>
  <div>
   <center>
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70E0E&background=FF373700&center=true&width=600&height=100&lines=Hi+!+im+Rizki+Agung;I'm+a+web+developer+and+editor;Contact+me+if+you+need+help+and+other+information+about+it.)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70E0E&background=FF373700&center=true&width=600&height=100&lines=Hi+!+im+Rizki+Agung;I'm+a+web+developer+and+editor;Contact+me+if+you+need+help+and+other+information+about+it." alt="Typing SVG" /></a>
 <br>
 <div align      = "center">
    <H3>“Change your thoughts and you change your world.”</H3>
