@@ -1,10 +1,10 @@
 <h1 align       = "center">Welcome to my Github 😊</h1>
  <div>
   <center>
-<a align       = "center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70E0E&width=600&height=100&lines=Hi+!+im+Rizki+Agung;I'm+a+web+developer+and+editor;Contact+me+if+you+need+help+and+other+information+about+it." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70E0E&background=FF373700&center=true&width=600&height=100&lines=Hi+!+im+Rizki+Agung;I'm+a+web+developer+and+editor;Contact+me+if+you+need+help+and+other+information+about+it." alt="Typing SVG" /></a>
 <br>
 <div align      = "center">
-   <p>“Change your thoughts and you change your world.”</p>
+   <H3>“Change your thoughts and you change your world.”</H3>
   </a>
   </div>
   <img src="https://github.com/rizkiagungid/rizkiagungid/blob/main/Genshin-Impact-anime.jpg">
