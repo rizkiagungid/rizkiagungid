@@ -7,7 +7,7 @@
    <H3>“Change your thoughts and you change your world.”</H3>
   </a>
   </div>
-  <img src="https://github.com/rizkiagungid/rizkiagungid/blob/main/WhatsApp%20Image%202023-05-01%20at%2021.25.19.jpeg">
+  <img src="https://github.com/rizkiagungid/rizkiagungid/blob/main/WhatsApp Image 2023-05-31 at 20.49.22.jpeg">
 <br>
 
 [![@rizkiagungid's Holopin board](https://holopin.me/rizkiagungid)](https://holopin.io/@rizkiagungid)
