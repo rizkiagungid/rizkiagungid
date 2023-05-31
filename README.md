@@ -1,8 +1,6 @@
 <h1 align       = "center">Welcome to my Github 😊</h1>
  <div>
  <center>
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F73318&background=FF373700&width=600&height=100&lines=Hi+!+im+Rizki+Agung+Sentosa;I'm+a+web+developer+and+editor;Contact+me+if+you+need+help+and+other+information+about+it." alt="Typing SVG" /></a></center>
-  <center>
 <br>
 <div align      = "center">
    <H3>“Change your thoughts and you change your world.”</H3>
@@ -10,6 +8,8 @@
   </div>
   <img src="https://github.com/rizkiagungid/rizkiagungid/blob/main/WhatsApp Image 2023-05-31 at 20.49.22.jpeg">
 <br>
+<center>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F73318&background=FF373700&width=600&height=100&lines=Hi+!+im+Rizki+Agung+Sentosa;I'm+a+web+developer+and+editor;Contact+me+if+you+need+help+and+other+information+about+it." alt="Typing SVG" /></a></center>
 
 [![@rizkiagungid's Holopin board](https://holopin.me/rizkiagungid)](https://holopin.io/@rizkiagungid)
 Currently I am open to all opportunities, especially in the IT field as a Web Developer and Multimedia.
