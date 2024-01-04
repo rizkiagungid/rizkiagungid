@@ -46,7 +46,7 @@ Currently I am open to all opportunities, especially in the IT field as a Web De
 ### Let's connect!
 
 <p>
-    <a href="https://dev.rasxmedia.com/u/rasx" target="_blank"><img src="https://img.shields.io/badge/Website-https://rizkiagungid.com-green?" /></a>
+    <a href="https://rizkiagung.my.id" target="_blank"><img src="https://img.shields.io/badge/Website-https://rizkiagungid.com-green?" /></a>
     <a href="https://www.linkedin.com/in/rizki-agung-sentosa-7b272617a/" target="_blank"><img src="https://img.shields.io/badge/rizkiagungid-30302f?style=flat&logo=linkedin" /></a>
     <a href="https://twitter.com/rizkiagungin" target="_blank"><img src="https://img.shields.io/badge/@rizkiagungin-30302f?style=flat&logo=twitter" /></a>
     <a href="https://www.instagram.com/rizkiagung.id" target="_blank"><img src="https://img.shields.io/badge/@rizkiagung.id-30302f?style=flat&logo=instagram" /></a>
